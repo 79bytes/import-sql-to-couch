@@ -18,7 +18,7 @@ if __name__=="__main__":
 	# Name
 	PROG_NAME=__file__
 	# Version
-	PROG_VERSION="$Id$, $Rev$, $Date$"
+	PROG_VERSION="$Rev$"
 	# Code Pages URL
 	PROG_CODE_PAGES="http://code.google.com/p/import-sql-2-couch/"
 	# Description
