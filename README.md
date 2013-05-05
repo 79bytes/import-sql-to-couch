@@ -1,4 +1,4 @@
-# Import SQL To Couch=
+# Import SQL To Couch
 
 A simple, comfortable way to transfer a SQL-database, or parts of it, to your CouchDB. Transfer whole databases or just some different tables. Currently supported SQL-databases, take a look at sql-type: mysql
 
